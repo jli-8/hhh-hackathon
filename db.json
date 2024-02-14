@@ -1,14 +1,77 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "range":"30-days",
+   "space_id":"61674ba8be957a000c295164",
+   "views":{
+      "value":2334,
+      "change":8,
+      "data":[
+         {
+            "x":"2024-01",
+            "y":938
+         },
+         {
+            "x":"2024-02",
+            "y":522
+         }
+      ]
+   },
+   "bookings":{
+      "value":8,
+      "change":8,
+      "data":[
+         
+      ]
+   },
+   "response_rate":{
+      "value":98,
+      "change":8,
+      "data":[
+         
+      ]
+   },
+   "inquiries":{
+      "value":14,
+      "change":8,
+      "data":[
+         
+      ]
+   },
+   "cancellations":{
+      "value":3,
+      "change":-1,
+      "data":[
+         
+      ]
+   },
+   "earnings":{
+      "value":1200,
+      "change":8,
+      "data":[
+         
+      ]
+   },
+   "hours_booked":{
+      "value":10243,
+      "change":8,
+      "data":[
+         
+      ]
+   },
+   "favorities":{
+      "value":778,
+      "change":8,
+      "data":[
+         
+      ]
+   },
+   "last_booking_date":"2023-09-29",
+   "listings":[
+      
+   ],
+   "powerhost_benchmarks":{
+      "response_rate":98,
+      "avg_review_score":4.9,
+      "cancellations":1,
+      "accepted_bokings":8
+   }
 }
